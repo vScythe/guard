@@ -16,12 +16,12 @@ _Vereist [Node.js] (nodejs.org) v12 of hoger_
 
 ## Commando's
 
- `g! prefix [prefix]`  Toont het huidige voorvoegsel, wijzigt het voorvoegsel indien gespecificeerd
+ `.prefix [prefix]`  Toont het huidige voorvoegsel, wijzigt het voorvoegsel indien gespecificeerd
 
- `g! limieten [index] [waarde]`  Geeft de limieten weer, wijzigt de waarde van een index indien gespecificeerd
+ `.limieten [index] [waarde]`  Geeft de limieten weer, wijzigt de waarde van een index indien gespecificeerd
 
- `g! reset [type]`  Reset de gespecificeerde gegevens of verzameling
+ `.reset [type]`  Reset de gespecificeerde gegevens of verzameling
 
- `g! recent [ID]`  Toont recente moderatie-acties die de limieten van de bot kunnen activeren
+ `.recent [ID]`  Toont recente moderatie-acties die de limieten van de bot kunnen activeren
 
- `g! log [#channel]`  Wijst het logboekkanaal toe voor acties en limietwijzigingen
+ `.log [#kanaal]`  Wijst het logboekkanaal toe voor acties en limietwijzigingen

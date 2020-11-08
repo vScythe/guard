@@ -1,5 +1,5 @@
 module.exports = {
-    defaultPrefix: 'g!',
+    defaultPrefix: '.',
     ownerID: '144645791145918464',
     _limits: 'The following are defaults.',
     adminCanChangeLimits: true,
